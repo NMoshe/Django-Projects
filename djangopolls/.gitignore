@@ -271,4 +271,4 @@ $RECYCLE.BIN/
 
 
 # key
-secret_settings.py
+mysite/secret_settings.py
